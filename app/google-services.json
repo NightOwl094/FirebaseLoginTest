@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201777212764",
+    "project_id": "fir-logintest-c4c27",
+    "storage_bucket": "fir-logintest-c4c27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201777212764:android:26fd1c770b151ad33c6599",
+        "android_client_info": {
+          "package_name": "com.nightowl094.firebaselogintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201777212764-iooep5cdok65imckb6893a26isdggt4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKmLMNMfJrgUQjqqhThdrwXPtjm1RBO0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201777212764-iooep5cdok65imckb6893a26isdggt4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
